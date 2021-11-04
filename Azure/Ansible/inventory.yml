@@ -1,0 +1,22 @@
+---
+# Replace the x's with the IP addresses from "terrafrom output"
+
+logger:
+  hosts:
+    20.69.101.85:
+
+dc:
+  hosts:
+    20.112.32.222:
+
+wef:
+  hosts:
+    20.69.99.94:
+
+win10:
+  hosts:
+    52.250.112.223:
+
+exchange:
+  hosts:
+    # v.v.v.v:
